@@ -1,0 +1,9 @@
+C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\bin\Debug\netcoreapp3.1\MyClassLibary.deps.json
+C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\bin\Debug\netcoreapp3.1\MyClassLibary.dll
+C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\bin\Debug\netcoreapp3.1\MyClassLibary.pdb
+C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\obj\Debug\netcoreapp3.1\MyClassLibary.csprojAssemblyReference.cache
+C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\obj\Debug\netcoreapp3.1\MyClassLibary.AssemblyInfoInputs.cache
+C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\obj\Debug\netcoreapp3.1\MyClassLibary.AssemblyInfo.cs
+C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\obj\Debug\netcoreapp3.1\MyClassLibary.csproj.CoreCompileInputs.cache
+C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\obj\Debug\netcoreapp3.1\MyClassLibary.dll
+C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\obj\Debug\netcoreapp3.1\MyClassLibary.pdb
