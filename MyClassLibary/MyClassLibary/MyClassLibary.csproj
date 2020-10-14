@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\Dominik Haskó\source\repos\CSharpUnitTestAssignment1\MyClassLibary\MyClassLibary\MyClassLibary.xml</DocumentationFile>
+  </PropertyGroup>
+
 </Project>

@@ -14,7 +14,13 @@ namespace MyClassLibary
         private int _pageNumber;
         private string _isbn13;
 
-
+        /// <summary>
+        /// Constructor for book class. This method takes 4 parameters.
+        /// </summary>
+        /// <param name="title">The title of the book, string. At least 2 characters long.</param>
+        /// <param name="author">The author of the book, string</param>
+        /// <param name="pageNumber">The number of pages in the book between 10 and 1001</param>
+        /// <param name="isbn13">13 characters long unique identification for the book </param>
         public Book(string title, string author, int pageNumber, string isbn13)
         {
             //if (title.Length>1) { _title = title; }
